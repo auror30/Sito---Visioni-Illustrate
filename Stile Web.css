@@ -1,0 +1,150 @@
+body  { 
+    background-color:black;
+    font-family: sans-serif;
+    color:rgb(211, 205, 185);
+    margin: 0 auto;
+}
+
+img  { 
+   max-width: 99%;
+   display: flex;
+   margin: -244%;
+   margin-left: 97%;
+ 
+}
+
+.contenitore { 
+    max-width: 1100px;
+    margin: 0 auto;right:40%;
+}
+
+.info { 
+    display:flex;
+}
+
+.testo { 
+    width: 50%;
+    display: flex;
+    font-family: sans-serif;
+    font-size: 190%;
+    justify-content:center;
+    text-decoration-style:solid;
+    margin: 10px;
+}
+
+main div.sottotitolo  { 
+    width: 50%;
+    display: flex;
+    font-family: sans-serif;
+    font-size: 100%;
+    justify-content:space-between;
+    margin: 40px;
+}
+
+section div h6 { 
+    color: rgb(211, 205, 185);
+    font-size: 60%;
+    text-align:left;
+    margin: 80px;
+  
+}
+
+section div h5 { 
+    width: -80%;
+    display: flex;
+    font-family: sans-serif;
+    color: white;
+    font-size: 60%;
+    justify-content:left;
+    margin: 90px;
+  
+}
+
+section div p { 
+    font-size: 50%;
+    color: white;
+    text-align:right;
+    margin: 50px;
+    
+  
+}
+
+section div h4 { 
+    
+        font-size: 70%;
+        color: rgb(211, 205, 185);
+        text-align:left;
+        margin: 80px;
+    }
+
+
+section div h3 { 
+    
+    font-size: 150%;
+    color: white;
+    text-align:left;
+    justify-content: center;
+    margin: 190px;
+}
+
+
+
+
+header { 
+    display:flex;
+    justify-content:space-between;
+    font-family: sans-serif;
+    padding: 10px;
+    background-color:rgb(211, 205, 185);
+
+}
+
+header nav ul  {
+    list-style:none;
+    display:flex;
+    font-family: sans-serif;
+    gap: 24px;
+    margin: 0%;
+
+ }
+
+ header p { 
+    gap: 24px;
+    margin: 0;
+    text-align:center;
+  }
+
+ header a  {
+    color:black;
+    text-decoration: none;
+  }
+
+  header a:hover  { 
+    color:black;
+    text-decoration: underline;
+  }
+
+  .info-home  { 
+   background-color:black;
+   padding: 16px 24px;
+   min-height: 100px;
+   text-align:center;
+  }
+
+  main section div  { 
+    color:rgb(211, 205, 185);
+    font-family: sans-serif;
+    text-align: center;
+    text-size-adjust: 50px;
+  }
+
+  footer {  
+    display:flex;
+    justify-content:space-between;
+    font-family: sans-serif;
+    padding: 10px;
+    background-color:black;
+   }
+
+
+
